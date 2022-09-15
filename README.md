@@ -3,7 +3,7 @@ Device Detection Application with Physical LED Indicators
 
 
 # Problem
-While on a WFH Teams/Zoom/etc meeting, people (inlaws) are not always aware whether I am in a meeting. This has been at times awkward, because no matter the situation, one ends up thinking they looked like [this](https://www.youtube.com/watch?v=Mh4f9AYRCZY) in the background if they enter at a bad time! To avoid any embarrassment, I set out to provide those outside the home-office with an indication of the in-office meeting status. Additionally, this was also a great opportunity to get my feet wet with beginner circuitry/electronics.
+While on a WFH Teams/Zoom/etc meeting, people (wife/daughter) are not always aware whether I am in a meeting. This has been at times awkward, because no matter the situation, one ends up thinking they looked like [this](https://www.youtube.com/watch?v=Mh4f9AYRCZY) in the background if they enter at a bad time! To avoid any embarrassment, I set out to provide those outside the home-office with an indication of the in-office meeting status. Additionally, this was also a great opportunity to get my feet wet with beginner circuitry/electronics.
 
 # Overview
 At a high-level, I quickly narrowed down the any solution to require 3 distinct components. The "software" running on the computer, the "hardware" or electrical circuit with an LED, and something to facilitate communication between these two.
